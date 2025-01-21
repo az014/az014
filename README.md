@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=az014&label=Profile%20views&color=4cbecd&style=plastic" alt="az014" /> </p>
 
-- 💬 Ask me about **Full Stack, UI/UX, Android**
+- 💬 Ask me about **Python, Java, UI/UX, Android**
 
 - 📫 How to reach me **anouworld@gmail.com**
 
